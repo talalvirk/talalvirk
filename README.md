@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Hey there! I'm [YourName] 👋✨
+# Hey there! I'm Muhammad Talal Virk 👋✨
 
 ### 🌱 Student & Aspiring Developer | Learning one bug at a time 🐛
 
@@ -15,7 +15,7 @@
 
 ```python
 me = {
-    "name":        "Your Name",
+    "name":        "Muhammad Talal Virk",
     "currently":   "Studying CS / Coding bootcamp / Self-taught 📚",
     "learning":    ["Python", "JavaScript", "HTML & CSS"],
     "goal":        "Land my first dev job 🎯",
