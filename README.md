@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=hey,%20i'm%20[yourname]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=software%20engineering%20student%20·%20open%20source%20enjoyer%20·%20always%20building&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=hey,%20i'm%20[Muhammad Talal Virk]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=software%20engineering%20student%20·%20open%20source%20enjoyer%20·%20always%20building&descAlignY=55&descSize=16" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```js
 const me = {
-  name:       "Your Name",
+  name:       "Muhammad Talal Virk",
   degree:     "BSc Software Engineering 🎓",
   vibe:       "build → break → learn → repeat",
   status:     "cooking something open source rn 👨‍🍳",
@@ -65,8 +65,8 @@ const me = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=talalvirk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalvirk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" />
 
 </div>
 
@@ -96,7 +96,7 @@ const me = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalvirk2022@email.com)
 
 </div>
 
