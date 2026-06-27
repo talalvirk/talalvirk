@@ -1,80 +1,102 @@
-<!-- Header -->
 <div align="center">
 
-# Hey there! I'm Muhammad Talal Virk 👋✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=hey,%20i'm%20[yourname]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=software%20engineering%20student%20·%20open%20source%20enjoyer%20·%20always%20building&descAlignY=55&descSize=16" />
 
-### 🌱 Student & Aspiring Developer | Learning one bug at a time 🐛
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Junior+Dev+in+the+making+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%93%96;Turning+coffee+into+code+%E2%98%95;404%3A+Sleep+Not+Found+%F0%9F%98%B4)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=500&lines=building+cool+stuff+in+public+%F0%9F%94%A8;open+source+or+bust+%F0%9F%9A%80;turning+caffeine+into+commits+%E2%98%95;SE+student+%7C+full-time+debugger+%F0%9F%90%9E)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
-me = {
-    "name":        "Muhammad Talal Virk",
-    "currently":   "Studying CS / Coding bootcamp / Self-taught 📚",
-    "learning":    ["Python", "JavaScript", "HTML & CSS"],
-    "goal":        "Land my first dev job 🎯",
-    "fun_fact":    "I once debugged for 3 hours... it was a missing semicolon 😭",
-    "mood":        "def mood(): return '☕ + 💻 = 🚀'"
+## `whoami` 🧠
+
+```js
+const me = {
+  name:       "Your Name",
+  degree:     "BSc Software Engineering 🎓",
+  vibe:       "build → break → learn → repeat",
+  status:     "cooking something open source rn 👨‍🍳",
+  lookingFor: [
+    "open source collabs 🤝",
+    "cool projects to contribute to 🔧",
+    "people who get it 🫡"
+  ],
+  funFact:    "i push to main when i'm feeling dangerous 😅"
 }
 ```
 
 ---
 
-## 🛠️ My Toolbox (so far!)
+## 🛠️ tech stack *(the usual suspects)*
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 what i'm on rn
+
+| vibe | what's cookin |
+|------|---------------|
+| 🔨 **building** | cool OSS project *(drop a ⭐ it helps fr)* |
+| 🌍 **contributing** | actively hunting PRs to merge into the wild |
+| 📖 **learning** | system design + distributed systems |
+| 🤝 **open to** | collabs, open source, anything interesting tbh |
+
+---
+
+## 📊 my github wrapped
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=talalvirk&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talalvirk&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## 🌱 open source journey
 
-- 🔭 **Building:** My first personal portfolio website
-- 📖 **Learning:** JavaScript & how to not break things
-- 🤝 **Looking for:** Mentors, collabs, and fellow beginners!
-- 💬 **Ask me about:** Literally anything — I love to chat about tech
-- 🎮 **Fun mode:** Gaming, memes, and figuring out what `undefined` means this time
+> *"the best way to learn is to build in public"*
+
+- 🔍 always looking for **good first issues** to pick up
+- 💬 love discussing architecture, APIs & dev tooling
+- 🧩 believe open source is **the real cs degree**
+- ✍️ trying to document everything so others can learn too
 
 ---
 
-## 🌐 Let's Connect!
+## 🤝 let's connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -82,13 +104,10 @@ me = {
 
 <div align="center">
 
-### 💡 Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
----
+*if my code helped you, a ⭐ goes a long way 🫶*
 
-*Made with ❤️, lots of ☕, and the occasional panic-Google*
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=A78BFA)
 
 </div>
